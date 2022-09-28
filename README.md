@@ -9,6 +9,9 @@ Step 1: Exploratory Data Analysis (EDA)
 ![189518816-cc24cc41-5e72-4b4c-af9f-a3c59eeff59c](https://user-images.githubusercontent.com/108938132/192512334-6a997659-5ccd-41eb-aa4b-27d9946c488b.png)
 
 Step 2-Feature Engineering section
+
+
+
 ![189530787-ede04802-8a73-4371-92a2-dbf9d763f3c0](https://user-images.githubusercontent.com/108938132/192512343-0d495fb6-8eaf-4553-ab8c-d78f5ac1eb3d.png)
 
 
