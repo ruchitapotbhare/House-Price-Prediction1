@@ -22,6 +22,7 @@ Step 1: Exploratory Data Analysis (EDA)
 Step 2-Feature Engineering section
 ![189530787-ede04802-8a73-4371-92a2-dbf9d763f3c0](https://user-images.githubusercontent.com/108938132/192512343-0d495fb6-8eaf-4553-ab8c-d78f5ac1eb3d.png)
 
+
 Step 3: Dataset Preparation (Splitting and Scaling)
 ![189531311-898a9ef8-face-4088-8d41-0a83a6bad741](https://user-images.githubusercontent.com/108938132/192587813-82da7b8b-5334-4428-bfc9-1d1a7d778526.png)
 
